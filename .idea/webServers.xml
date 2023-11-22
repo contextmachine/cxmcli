@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d987d8cf-f68f-4ec9-b262-1122d844ee7f" name="yandex">
+        <fileTransfer accessType="SFTP" host="84.201.140.137" port="22" sshConfigId="eabc87a9-4a75-4a9b-8e7b-828ab4689590" sshConfig="sthv@84.201.140.137:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" isUseRsync="true" isUseSudo="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

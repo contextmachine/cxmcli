@@ -1,0 +1,122 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="GraphQLDuplicateArgument" enabled="true" level="WARNING" enabled_by_default="true" editorAttributes="WARNING_ATTRIBUTES" />
+    <inspection_tool class="GraphQLDuplicateDirective" enabled="true" level="WARNING" enabled_by_default="true" editorAttributes="WARNING_ATTRIBUTES" />
+    <inspection_tool class="GraphQLEmptyType" enabled="true" level="WARNING" enabled_by_default="true" editorAttributes="WARNING_ATTRIBUTES" />
+    <inspection_tool class="GraphQLIllegalDirectiveArgument" enabled="true" level="WARNING" enabled_by_default="true" editorAttributes="WARNING_ATTRIBUTES" />
+    <inspection_tool class="GraphQLIllegalName" enabled="true" level="WARNING" enabled_by_default="true" editorAttributes="WARNING_ATTRIBUTES" />
+    <inspection_tool class="GraphQLInterfaceImplementation" enabled="true" level="WARNING" enabled_by_default="true" editorAttributes="WARNING_ATTRIBUTES" />
+    <inspection_tool class="GraphQLInvalidDirectiveLocation" enabled="true" level="WARNING" enabled_by_default="true" editorAttributes="WARNING_ATTRIBUTES" />
+    <inspection_tool class="GraphQLMemberRedefinition" enabled="true" level="WARNING" enabled_by_default="true" editorAttributes="WARNING_ATTRIBUTES" />
+    <inspection_tool class="GraphQLMissingType" enabled="true" level="WARNING" enabled_by_default="true" editorAttributes="WARNING_ATTRIBUTES" />
+    <inspection_tool class="GraphQLSchemaValidation" enabled="true" level="WARNING" enabled_by_default="true" editorAttributes="WARNING_ATTRIBUTES" />
+    <inspection_tool class="GraphQLTypeRedefinition" enabled="true" level="WARNING" enabled_by_default="true" editorAttributes="WARNING_ATTRIBUTES" />
+    <inspection_tool class="GraphQLUnexpectedType" enabled="true" level="WARNING" enabled_by_default="true" editorAttributes="WARNING_ATTRIBUTES" />
+    <inspection_tool class="GraphQLUnresolvedReference" enabled="false" level="WARNING" enabled_by_default="false" editorAttributes="WARNING_ATTRIBUTES" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="66">
+            <item index="0" class="java.lang.String" itemvalue="scipy" />
+            <item index="1" class="java.lang.String" itemvalue="geomdl" />
+            <item index="2" class="java.lang.String" itemvalue="strawberry" />
+            <item index="3" class="java.lang.String" itemvalue="httpx" />
+            <item index="4" class="java.lang.String" itemvalue="shapely" />
+            <item index="5" class="java.lang.String" itemvalue="graphql-relay" />
+            <item index="6" class="java.lang.String" itemvalue="cython" />
+            <item index="7" class="java.lang.String" itemvalue="jsonpickle" />
+            <item index="8" class="java.lang.String" itemvalue="pycparser" />
+            <item index="9" class="java.lang.String" itemvalue="markdown-it-py" />
+            <item index="10" class="java.lang.String" itemvalue="redis" />
+            <item index="11" class="java.lang.String" itemvalue="mmcore" />
+            <item index="12" class="java.lang.String" itemvalue="pyvis" />
+            <item index="13" class="java.lang.String" itemvalue="fire" />
+            <item index="14" class="java.lang.String" itemvalue="multiprocess" />
+            <item index="15" class="java.lang.String" itemvalue="uvicorn" />
+            <item index="16" class="java.lang.String" itemvalue="sympy" />
+            <item index="17" class="java.lang.String" itemvalue="pyquaternion" />
+            <item index="18" class="java.lang.String" itemvalue="jsonschema" />
+            <item index="19" class="java.lang.String" itemvalue="email-validator" />
+            <item index="20" class="java.lang.String" itemvalue="aniso8601" />
+            <item index="21" class="java.lang.String" itemvalue="orjson" />
+            <item index="22" class="java.lang.String" itemvalue="jinja2" />
+            <item index="23" class="java.lang.String" itemvalue="fonttools" />
+            <item index="24" class="java.lang.String" itemvalue="boto3" />
+            <item index="25" class="java.lang.String" itemvalue="imageio" />
+            <item index="26" class="java.lang.String" itemvalue="shell" />
+            <item index="27" class="java.lang.String" itemvalue="ezdxf" />
+            <item index="28" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="29" class="java.lang.String" itemvalue="compas" />
+            <item index="30" class="java.lang.String" itemvalue="randomname" />
+            <item index="31" class="java.lang.String" itemvalue="schema" />
+            <item index="32" class="java.lang.String" itemvalue="networkx" />
+            <item index="33" class="java.lang.String" itemvalue="more-itertools" />
+            <item index="34" class="java.lang.String" itemvalue="cffi" />
+            <item index="35" class="java.lang.String" itemvalue="cloudpickle" />
+            <item index="36" class="java.lang.String" itemvalue="earcut" />
+            <item index="37" class="java.lang.String" itemvalue="requests" />
+            <item index="38" class="java.lang.String" itemvalue="websocket-client" />
+            <item index="39" class="java.lang.String" itemvalue="graphene" />
+            <item index="40" class="java.lang.String" itemvalue="plumbum" />
+            <item index="41" class="java.lang.String" itemvalue="docker" />
+            <item index="42" class="java.lang.String" itemvalue="colored" />
+            <item index="43" class="java.lang.String" itemvalue="itsdangerous" />
+            <item index="44" class="java.lang.String" itemvalue="tzdata" />
+            <item index="45" class="java.lang.String" itemvalue="ipython" />
+            <item index="46" class="java.lang.String" itemvalue="rich" />
+            <item index="47" class="java.lang.String" itemvalue="dill" />
+            <item index="48" class="java.lang.String" itemvalue="python-multipart" />
+            <item index="49" class="java.lang.String" itemvalue="pandas" />
+            <item index="50" class="java.lang.String" itemvalue="fastapi" />
+            <item index="51" class="java.lang.String" itemvalue="s3transfer" />
+            <item index="52" class="java.lang.String" itemvalue="watchdog" />
+            <item index="53" class="java.lang.String" itemvalue="strawberry-graphql" />
+            <item index="54" class="java.lang.String" itemvalue="cmake" />
+            <item index="55" class="java.lang.String" itemvalue="pytz" />
+            <item index="56" class="java.lang.String" itemvalue="rpyc" />
+            <item index="57" class="java.lang.String" itemvalue="pycollada" />
+            <item index="58" class="java.lang.String" itemvalue="ujson" />
+            <item index="59" class="java.lang.String" itemvalue="botocore" />
+            <item index="60" class="java.lang.String" itemvalue="urllib3" />
+            <item index="61" class="java.lang.String" itemvalue="cycler" />
+            <item index="62" class="java.lang.String" itemvalue="pyrsistent" />
+            <item index="63" class="java.lang.String" itemvalue="referencing" />
+            <item index="64" class="java.lang.String" itemvalue="jsonschema-specifications" />
+            <item index="65" class="java.lang.String" itemvalue="rpds-py" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E252" />
+          <option value="E265" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPropertyDefinitionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="graphql.language.ast.NameNode.generic_getter" />
+          <option value="graphql.language.ast.SelectionSetNode.generic_getter" />
+          <option value="graphql.language.ast.SelectionNode.generic_getter" />
+          <option value="examples.gh.mmcl.ghenv" />
+          <option value="examples.gh.mmcl.ghpythonlib" />
+          <option value="examples.gh.mmcl.x" />
+          <option value="rhinoscriptsyntax" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
