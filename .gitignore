@@ -1,4 +1,5 @@
 .env
+.idea
 export
 examples/movie
 examples/ifc/multi/02_10_23_NE_niche__.ifc
